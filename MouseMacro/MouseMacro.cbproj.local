@@ -1,0 +1,11 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>1899.12.30 00:00:00.000.dfm,D:\Sources\MouseMacro\Unit1.dfm=C:\Users\Mert Eroğlu\Documents\RAD Studio\Projects\Unit1.dfm</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.958,D:\Sources\MouseMacro\MouseMacro.cbproj=D:\Sources\MouseMacro\Project1.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.147,D:\Sources\MouseMacro\MouseMacro.cbproj=D:\Sources\MouseMacro\MouseMacro.cbproj</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.h,D:\Sources\MouseMacro\Unit1.h=C:\Users\Mert Eroğlu\Documents\RAD Studio\Projects\Unit1.h</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cpp,D:\Sources\MouseMacro\Unit1.cpp=C:\Users\Mert Eroğlu\Documents\RAD Studio\Projects\Unit1.cpp</Transaction>
+    <Transaction>1899.12.30 00:00:00.000.cbproj,D:\Sources\MouseMacro\Project1.cbproj=C:\Users\Mert Eroğlu\Documents\RAD Studio\Projects\Project1.cbproj</Transaction>
+  </Transactions>
+</BorlandProject>
